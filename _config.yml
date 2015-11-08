@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6648746
+  brandStrength: 0.1863799
+  lightness: 0.4121864
+  brandColors:
+    - '#E0995D'
+    - '#534030'
+    - '#20150C'
+    - '#87B4BD'
+    - '#5C7777'
+  rhythmicContrast: 0.06996112
+typography_spectrum: 1
+name: Jett
