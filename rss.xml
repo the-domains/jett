@@ -4,7 +4,7 @@
         <description><![CDATA[My website's better than your honor student.]]></description>
         <link>https://thegrid.ai/jett/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 12:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2015 12:05:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jett/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/jett/8fce02be-8386-4038-98ab-4bb8e7115f04/index.html</link>
             <guid isPermaLink="false">8fce02be-8386-4038-98ab-4bb8e7115f04</guid>
             <pubDate>Fri, 20 Nov 2015 11:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Haskins on Instagram: "This baby turnin up!! #monster #turnt #turnup #babygram"]]></title>
+            <description><![CDATA[<article><h1>David Haskins on Instagram: "This baby turnin up!! #monster #turnt #turnup #babygram"</h1><p>"This baby turnin up!! #monster #turnt #turnup #babygram"</p><img src="https://scontent.cdninstagram.com/hphotos-xpf1/t51.2885-15/e15/10979660_1550368721893607_1470720666_n.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/zaa5qePmFs/?taken-by=skinnysc</link>
+            <guid isPermaLink="false">10c20a19-674a-4988-8cd2-641af5cefe4c</guid>
+            <pubDate>Fri, 20 Nov 2015 12:04:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[David Haskins on Instagram: "Actin a Fool!! #babygram #baby #wink #babies"]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/8ZTr0pvmJJ/?taken-by=skinnysc</link>
             <guid isPermaLink="false">d067aca9-0281-4fed-8899-a95932d1ec00</guid>
             <pubDate>Fri, 20 Nov 2015 12:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>https://thegrid.ai/jett/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">7663fe72-c2c3-4577-ad04-e8b686a698d5</guid>
-            <pubDate>Mon, 09 Nov 2015 11:52:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
